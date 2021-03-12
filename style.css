@@ -1,0 +1,17 @@
+body {
+    background-color: blue
+}
+p {
+    font-size: 20
+}
+.words {
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  color: green;
+  text-align: center;
+  background-color: pink;
+}
+
+.happy {
+  font-family: 'Courier New', Courier, monospace;
+  color: red;
+}
